@@ -1,0 +1,54 @@
+.nav{
+	margin: 5px;
+	padding:10px;
+}
+body
+{
+	
+	background-color:#efefef;
+	font-family:sans-serif;
+}
+.contact-box
+{
+	width:500px;
+	background-color:#fff;
+	box-shadow: 0 0 20px 0 #999;
+	top:55%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	position:absolute;
+}
+.input-field
+{
+	 width:400px;
+	 height:30px;
+	 margin-top:20px;
+	 padding-left:20px;
+	 padding-right:10px;
+	 border:1px solid #777;
+	 border-radius: 14px;
+	 outline:none;
+}
+.textarea-field
+{
+	 height:110px;
+	 padding:10px;
+}
+.btn
+{
+	border-radius: 5px;
+	background-color:#f44336; 
+	border:none;
+    outline:none;
+	cursor:pointer;
+    color:white;
+     translation:.3s;
+	margin-top:18px;
+    padding:10px;
+	background-color: #47c35a;
+	font-size: 12px;
+}
+.btn:hover:hover
+{
+	 opacity:.7;
+}
